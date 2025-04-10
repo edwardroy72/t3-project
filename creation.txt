@@ -1,0 +1,4 @@
+pnpm create t3-app@latest;
+upload to git
+connect to vercel
+connect to db
