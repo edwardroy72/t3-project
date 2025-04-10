@@ -6,9 +6,9 @@ Learning to use and implement the T3 Stack
 
 ## TODO
 
-- [ ] Make it deploy (vercell)
-- [ ] Scaffold basic ui with mock data
-- [ ] Actually set up a database (vercel postgres)
+- [x] Make it deploy (vercell)
+- [x] Scaffold basic ui with mock data
+- [x] Actually set up a database (vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication
 - [ ] Add image upload
